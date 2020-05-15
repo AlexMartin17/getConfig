@@ -5,8 +5,12 @@ Useful when you don't want to change the variables directly in your python scrip
 <br>
 Config files supported:
 <ul>
-<li>Simple ASCII cfg file</li>
-<li>JSON - TODO</li>
-<li>YAML - TODO</li>
-<li>INI - TODO</li>
+<li>Simple ASCII cfg file (which is same as INI file)</li>
+<li>INI</li>
+<li>XML</li>
+<li>JSON</li>
+</ul>
+Config files which are work in progress
+<ul>
+<li>YAML</li>
 </ul>
