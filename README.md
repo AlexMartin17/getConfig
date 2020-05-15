@@ -1,6 +1,6 @@
 # getConfig
 Python module for reading variables from config file.
-Useful when you don't want to change the variables directly in your python script.
+Useful when you don't want to change the variables directly in your python script or your users to do so.
 <br>
 <br>
 Config files supported:
