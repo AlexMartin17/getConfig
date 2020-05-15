@@ -14,3 +14,7 @@ Config files which are work in progress
 <ul>
 <li>YAML</li>
 </ul>
+<br>
+Available at https://pypi.org/project/getConfig/
+<br>
+pip install getConfig
